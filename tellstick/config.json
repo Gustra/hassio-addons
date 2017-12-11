@@ -38,7 +38,8 @@
         "house": "str?",
         "code": "str?",
         "unit": "str?",
-        "fade": "str?"
+        "fade": "str?",
+        "group": "int(0,)?"
       }
     ]
   },
